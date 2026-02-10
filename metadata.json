@@ -1,0 +1,5 @@
+{
+  "name": "Copy of RACK Support Guard",
+  "description": "An advanced customer support AI assistant powered by the RACK framework (Risk, Authority, Control, Knowledge). It features operational guardrails, real-time ticket management, and human-in-the-loop escalation capabilities.",
+  "requestFramePermissions": []
+}
